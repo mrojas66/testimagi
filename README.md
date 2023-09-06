@@ -1,47 +1,45 @@
-# Análisis de Datos de Ventas Online (Tarea 3)
+# Online Sales Data Analysis (Task 3)
 
-Este proyecto contiene un análisis detallado de un conjunto de datos de ventas en línea. El análisis abarca varios aspectos, desde la identificación del país que más consume productos hasta la correlación entre diferentes variables del conjunto de datos.
+This project contains a detailed analysis of an online sales data set. The analysis covers several aspects, from the identification of the country that consumes the most products to the correlation between different variables of the data set.
 
-## Requisitos
+## Requirements
 
-- Python 3.x
-- Jupyter Notebook
+-Python 3.x
+-Jupyter Notebook
 - Pandas
-- Matplotlib
-- Seaborn
-- openpyxl
+-matplotlib
+-Seaborn
+-openpyxl
 
-## Instalación
+## Facility
 
-Primero, clona este repositorio en tu máquina local usando:
+First, clone this repository to your local machine using:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone URL_OF_REPOSITORY
 ```
 
-## Entorno Virtual
+## Virtual environment
 
-Es recomendable crear un entorno virtual para gestionar las dependencias. Puedes crear un entorno virtual utilizando venv como se muestra a continuación:
+It is recommended to create a virtual environment to manage dependencies. You can create a virtual environment using venv as shown below:
 
 ```bash
 python3 -m venv myenv
 ```
 
-## Instalar Dependencias
-Una vez que el entorno virtual esté activado, puedes instalar las dependencias necesarias utilizando:
+## Install Dependencies
+Once the virtual environment is activated, you can install the necessary dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
 
 
 
-## Ejecución
-Para iniciar Jupyter Notebook, ejecuta:
+## Execution
+To start Jupyter Notebook, run:
 
 ```bash
 jupyter notebook
 ```
 
-Luego, abre **main.ipynb** para ver el análisis.
-
-
+Then, open **main.ipynb** to view the analysis.
